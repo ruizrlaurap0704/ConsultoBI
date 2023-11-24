@@ -24,9 +24,3 @@ Para ello, nuestro departamento de datos ha recopilado `Antecedentes del pacient
 
 El departamente de datos advierte que hay algunos problemas de calidad de datos en la información suministrada por lo que el primer reto del equipo es realizar un análisis exploratorio de los datos con el fin de transformar y preparar las datos adecuadamente. 
 
-
-## **Formato de entrega**
-
-Deben tener el código en un script .py o Jupyter Notebook .ipynb. Es muy importante explicar claramente cada paso realizado mediante comentarios en el script o textos formato markdown dentro del Notebook, pensar que cualquier persona debe entender de la mejor manera posible cada razonamiento y pasos aplicados.
-
-Recuerden, además, que deben crear el repositorio que contenga el proyecto, por lo que es importante que le dediquen tiempo también a esta parte, dejando todo ordenado y con un README acorde, que sirva de introducción al contenido dentro de este. Recuerden que nuestro cliente desea saber las características más importantes que tienen los pacientes de cierto tipo de enfermedad que terminan en hospitalización y crear un modelo predictivo de clasificación para la variable objetivo: Hospitalización.
