@@ -1,14 +1,6 @@
-# ConsultoBI
-# **Proyecto Integrador**
-
-## **Introducción**
-
-¡Bienvenidos a nuestro proyecto integrador! Durante estos días estarán poniendo en práctica sus habilidades en el campo del aprendizaje automático. Deberán entender la problemática y comprender los datos, realizar el análisis exploratorio de datos, preparar los datos, para luego experimentar con los modelos de machine learning en un contexto real. Finalmente, usarán las métricas correspondientes para medir el performance de los modelos y seleccionar el mejor. 
-
-Vale la pena destacar, que puede realizarse por equipos y que este proyecto no será revisado. El objetivo es poner en práctica los conceptos que se van adelantando en el M6, previo a la etapa de Labs que están por comenzar. Por tanto, es un proyecto que podrán tener un su portafolio personal, pero no tiene calificación cuantitativa. 
+# Machine Learning
 
 Este proyecto constará de tres fases: `Análisis exploratorio de datos`, `Preparación de datos` y `Modelamiento y evaluación`.
-
 
 ### 1. Análisis exploratorio de datos
 
@@ -20,7 +12,12 @@ Hemos sido contratados en el equipo de ciencia de datos en una consultora de ren
 
 Para ello, nuestro departamento de datos ha recopilado `Antecedentes del paciente`, `Morbilidad asociada al paciente` y `Antecedentes relacionados con la toma de la biopsia`y `Complicaciones infecciosas`. En la siguiente tabla, se encuentra un diccionario de datos asociado:
 
-![image](https://user-images.githubusercontent.com/118769777/220240501-8c21461d-2de5-495b-954e-10fb9bf38014.png)
+![imagen](https://user-images.githubusercontent.com/118769777/220240501-8c21461d-2de5-495b-954e-10fb9bf38014.png)
 
 El departamente de datos advierte que hay algunos problemas de calidad de datos en la información suministrada por lo que el primer reto del equipo es realizar un análisis exploratorio de los datos con el fin de transformar y preparar las datos adecuadamente. 
 
+### 2. Preparación de Datos <br>
+![imagen](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2A_Preparacion_de_datos.ipynb)
+
+### 3. Modelamiento y Evaluación <br>
+![imagen](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2B_Modelamiento.ipynb)
