@@ -17,7 +17,7 @@ Para ello, nuestro departamento de datos ha recopilado `Antecedentes del pacient
 El departamente de datos advierte que hay algunos problemas de calidad de datos en la información suministrada por lo que el primer reto del equipo es realizar un análisis exploratorio de los datos con el fin de transformar y preparar las datos adecuadamente. 
 
 ### 2. Preparación de Datos <br>
-![imagen](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2A_Preparacion_de_datos.ipynb)
+[Preparación de Datos](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2A_Preparacion_de_datos.ipynb)
 
 ### 3. Modelamiento y Evaluación <br>
-![imagen](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2B_Modelamiento.ipynb)
+[Modelamiento y Evaluación](https://github.com/ruizrlaurap0704/ConsultoBI/blob/main/Proyecto_Integrador_2B_Modelamiento.ipynb)
